@@ -34,12 +34,6 @@ This app follows the classic **MVC** pattern:
 * **View:** `TaskCell` and Storyboard layouts.
 * **Controller:** `TaskListViewController`. It acts as the brain, listening to Firebase updates (`observe(.value)`), managing the `TableView`, and handling user interactions.
 
-### Code Highlight: Debounced Search
-To prevent UI lag during searching, a throttling mechanism is used:
-```swift
-searchTimer?.invalidate()
-searchTimer = Timer.scheduledTimer(withTimeInterval: 0.5, repeats: false) { ... }
-
 ## 👨‍💻 Author
 
 **Mücahit**
