@@ -4,7 +4,7 @@ A real-time, efficient task management application built with **Swift** and **UI
 
 <p align="center">
   <img src="IMG_5834.PNG" alt="Home Screen" width="200"/>
-  <img src="TIMG_5836.PNG" alt="Search" width="200"/>
+  <img src="IMG_5836.PNG" alt="Search" width="200"/>
   <img src="IMG_5835.PNG" alt="Add Task" width="200"/>
 </p>
 
