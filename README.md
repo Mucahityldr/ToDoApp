@@ -39,3 +39,10 @@ To prevent UI lag during searching, a throttling mechanism is used:
 ```swift
 searchTimer?.invalidate()
 searchTimer = Timer.scheduledTimer(withTimeInterval: 0.5, repeats: false) { ... }
+
+## 👨‍💻 Author
+
+**Mücahit**
+* GitHub: [@Mucahityldr](https://github.com/Mucahityldr)
+* LinkedIn: [Mücahit Yıldırım](https://www.linkedin.com/in/mücahit-yıldırım)
+---
