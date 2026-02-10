@@ -3,9 +3,9 @@
 A real-time, efficient task management application built with **Swift** and **UIKit**. This project utilizes the **MVC (Model-View-Controller)** design pattern and **Firebase Realtime Database** for instant data synchronization.
 
 <p align="center">
-  <img src="ToDoApp/img/IMG_5834.PNG" alt="Home Screen" width="200"/>
-  <img src="ToDoApp/img/IMG_5836.PNG" alt="Search" width="200"/>
-  <img src="ToDoApp/img/IMG_5835.PNG" alt="Add Task" width="200"/>
+  <img src="IMG_5834.PNG" alt="Home Screen" width="200"/>
+  <img src="TIMG_5836.PNG" alt="Search" width="200"/>
+  <img src="IMG_5835.PNG" alt="Add Task" width="200"/>
 </p>
 
 ## 🌟 Key Features
